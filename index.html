@@ -9,6 +9,19 @@
 
     
   <style type="text/css">
+    
+      /* responsive: maak de container 100% op small screens */
+    @media only screen and (max-width: 768px) {
+    .templateContainer {
+      width: 90% !important; /* pas de breedte van de container aan naar 90% op tellies */
+      margin-left: 5%; /* marge links */
+      margin-right: 5%; /* marge rechts */
+  }
+  #bodyContent {
+    padding: 15px;
+  }
+}
+
     /* 
       basispagina reset en styling 
       gebaseerd op de e-mailtemplate en opgeschoond
@@ -124,8 +137,9 @@
           <!-- HEADER -->
           <tr>
             <td id="headerWrapper">
-              <a href="https://jintra.nl" target="_blank"></a>
+              <a href="https://jintra.nl" target="_blank">
               <img class="logo" src="https://i.imgur.com/Goa2Ydw.png" alt="jintra logo">
+              </a>
               <h1 style="font-size: 24px; color: #202020; margin-bottom: 5px;">
                 licentievoorwaarden
               </h1>
