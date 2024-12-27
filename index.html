@@ -36,14 +36,26 @@
       mso-table-rspace: 0pt;
     }
     
+    /* prijzen en subtitle styling */
     h1, h4, p {
       margin: 0;
       padding: 0;
     }
-    h2, h3 {
+    h2 {
       margin: 0;
       padding: 0;
-      align: center;
+      text-align: center;
+    }
+    h3 {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    /* list styling */
+    ul {
+      padding-left: 20px; /* Zet een extra marge aan de linkerkant van de lijst */
+      margin-left: 0; /* Verwijder de standaard marge aan de linkerkant van de lijst */
     }
 
     /* container voor de hele inhoud */
@@ -77,7 +89,7 @@
 
     /* body styling */
     #bodyContent {
-      padding: 20px;
+      padding: 20px 40px;
       font-size: 15px;
       line-height: 1.6;
       color: #202020;
@@ -125,7 +137,7 @@
           <!-- BODY CONTENT (LICENTIETEKST) -->
           <tr>
             <td id="bodyContent">
-              <p><strong>welkom!</strong> door het kopen of gebruiken van een beat van jintra ga je akkoord met de onderstaande licentievoorwaarden. lees deze zorgvuldig door voordat je verdergaat.</p>
+              <h4><strong>welkom!</strong> door het kopen of gebruiken van een beat van jintra ga je akkoord met de onderstaande licentievoorwaarden. lees deze zorgvuldig door voordat je verdergaat.</h4>
               
               <h2 style="margin: 30px 0 10px;">licentietypes en prijzen</h2>
               
@@ -157,6 +169,8 @@
                 <li><strong>vermelding:</strong> vermeld "prod. jintra" in alle uitgaves.</li>
               </ul>
 
+              <br>
+              <br> 
               <h2 style="margin: 30px 0 10px;">algemene voorwaarden</h2>
 
               <p><strong>betaling</strong><br>
