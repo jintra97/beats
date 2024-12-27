@@ -6,14 +6,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>licentievoorwaarden - jintra</title>
 
+
+    
   <style type="text/css">
+    /* 
+      basispagina reset en styling 
+      gebaseerd op de e-mailtemplate en opgeschoond
+    */
     html, body, #bodyTable, #bodyCell {
       margin: 0;
       padding: 0;
       width: 100%;
       height: 100%;
       font-family: helvetica, arial, sans-serif;
-      background-color: #6d4588;
+      background-color: #6d4588; /* achtergrondkleur pagina */
     }
     
     img {
@@ -30,13 +36,19 @@
       mso-table-rspace: 0pt;
     }
     
-    h1, h2, h3, h4, p {
+    h1, h4, p {
       margin: 0;
       padding: 0;
     }
+    h2, h3 {
+      margin: 0;
+      padding: 0;
+      align: center;
+    }
 
+    /* container voor de hele inhoud */
     .templateContainer {
-      width: 80%;
+      width: 60%;
       max-width: 1200px;
       margin: 0 auto;
       background-color: #ffffff;
@@ -44,6 +56,7 @@
       border-bottom: 2px solid #eaeaea;
     }
 
+    /* header styling */
     #headerWrapper {
       background-color: #ffffff;
       text-align: center;
@@ -55,12 +68,14 @@
       margin-bottom: 20px;
     }
 
+    /* ondertitel styling */
     .subHeading {
       font-size: 14px;
       color: #666666;
       margin: 10px 0 20px 0;
     }
 
+    /* body styling */
     #bodyContent {
       padding: 20px;
       font-size: 15px;
@@ -68,6 +83,7 @@
       color: #202020;
     }
 
+    /* footer styling */
     #footerWrapper {
       text-align: center;
       background-color: #fafafa;
@@ -76,6 +92,7 @@
       color: #656565;
     }
     
+    /* responsive: maak de container 100% op small screens */
     @media only screen and (max-width: 768px) {
       .templateContainer {
         width: 95% !important;
@@ -91,6 +108,8 @@
     <tr>
       <td id="bodyCell" align="center" valign="top">
         <table class="templateContainer" border="0" cellpadding="0" cellspacing="0">
+          
+          <!-- HEADER -->
           <tr>
             <td id="headerWrapper">
               <img class="logo" src="https://i.imgur.com/Goa2Ydw.png" alt="jintra logo">
@@ -103,6 +122,7 @@
             </td>
           </tr>
 
+          <!-- BODY CONTENT (LICENTIETEKST) -->
           <tr>
             <td id="bodyContent">
               <p><strong>welkom!</strong> door het kopen of gebruiken van een beat van jintra ga je akkoord met de onderstaande licentievoorwaarden. lees deze zorgvuldig door voordat je verdergaat.</p>
@@ -165,6 +185,7 @@
             </td>
           </tr>
 
+          <!-- FOOTER -->
           <tr>
             <td id="footerWrapper">
               © 2024 jintra — alle rechten voorbehouden.
