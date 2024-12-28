@@ -1,1 +1,6 @@
 .DS_Store
+*.wflow
+*.plist
+Automator\ Application\ Stub
+*.icns
+*.car
