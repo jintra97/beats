@@ -6,3 +6,4 @@ Automator\ Application\ Stub
 *.car
 CodeResources
 InfoPlist.locatable
+run localhost.app/Contents/Resources/InfoPlist.loctable
