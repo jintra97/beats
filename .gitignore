@@ -4,3 +4,5 @@
 Automator\ Application\ Stub
 *.icns
 *.car
+CodeResources
+InfoPlist.locatable
