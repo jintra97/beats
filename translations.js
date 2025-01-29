@@ -12,7 +12,7 @@ const translations = {
   en: {
     titel: "license terms & conditions",
     ingangsdatum: "entry date: 25/11/2024",
-    welcome: "<strong>welcome!</strong> by purchasing or using a beat from Jintra, you agree to the terms and conditions below. please read carefully before proceeding.",
+    welcome: "<strong>welcome!</strong> by purchasing or using a beat from Jintra, you agree to the terms and conditions below. please read carefully before proceeding. all prices quoted <u>include VAT</u>.",
     typesAndPrices: "license types and prices",
     mp3License: "1. mp3 license – €30",
     mp3Includes: "<strong>includes:</strong> mp3 file of the beat (320kbps).",
