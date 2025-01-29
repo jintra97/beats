@@ -41,7 +41,7 @@ const translations = {
     exclusiveCommercial: "<strong>rights:</strong> full commercial use allowed; no resale or sublicensing.",
     exclusiveAttribution: "<strong>attribution:</strong> credit \"Jintra\" as the producer in all releases.",
     licenseUpgrades: "license upgrades",
-    upgradeExplanation: "you can upgrade your existing license to a higher license at any time by paying the price difference. for example:",
+    upgradeExplanation: "upgrades to a higher license are possible by paying the price difference. the original license terms remain in effect until the upgrade is confirmed. for example:",
     upgradeMp3ToWav: "from <b>mp3</b> (€30) to <b>wav</b> (€75): pay €45 extra",
     upgradeWavToStems: "from <b>wav</b> (€75) to <b>unlimited & stems</b> (€200): pay €125 extra",
     upgradeStemsToExclusive: "from <b>unlimited & stems</b> (€200) to <b>exclusive</b> (starting from €300): pay at least €100 extra",
