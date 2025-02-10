@@ -47,7 +47,7 @@ const translations = {
     upgradeStemsToExclusive: "from <b>unlimited & stems</b> (€200) to <b>exclusive</b> (starting from €300): pay at least €100 extra",
     upgradeContact: "contact me at <a href=\"mailto:hmu@jintra.nl\">hmu@jintra.nl</a> to upgrade your license. provide your original purchase and desired upgrade.",
     generalTerms: "general terms",
-    payment: "<strong>payment</strong><br>payment methods: direct bank transfer and mollie (ideal and paypal). invoices are provided for every purchase. all purchases are final and non-refundable.",
+    payment: "<strong>payment</strong><br>payment methods: direct bank transfer, iDeal and PayPal. invoices are provided for every purchase. all purchases are final and non-refundable. payment must be made within 14 days of the invoice date. if the payment term is exceeded, 5% interest per month will be charged. when paying via iDeal or PayPal, additional transaction fees of €1 will apply.",
     promotions: "<strong>1. promotions</strong><br>Jintra reserves the right to offer temporary promotions, discounts, or special offers. these promotions are always temporary and do not affect the standard license terms.",
     ownership: "<strong>2. ownership</strong><br>Jintra retains full ownership of all beats, including licensed or exclusive beats. buyers of an exclusive license receive exclusive usage rights, but not ownership of the master or composition.",
     nonProfit: "<strong>3. non-profit use</strong><br>beats can be used for non-profit purposes (e.g., free releases) without purchase, provided \"Jintra\" is credited as the producer.",
