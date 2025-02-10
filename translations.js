@@ -54,7 +54,7 @@ const translations = {
     prohibitedUse: "<strong>4. prohibited use and liability</strong><br>resale, sublicensing, or claiming authorship of the beat is not allowed. use in projects promoting hate, violence, or illegal activities is prohibited. Jintra is not liable for any commercial success or streaming performance resulting from the use of a purchased beat.",
     delivery: "<strong>5. delivery</strong><br>beats are delivered digitally within 24 hours of confirmed payment. contact <a href=\"mailto:hmu@jintra.nl\">hmu@jintra.nl</a> for delivery issues.",
     disputes: "<strong>6. disputes and refunds</strong><br>all sales are final and non-refundable. contact Jintra directly for any disputes to resolve the issue.",
-    agreement: "<strong>7. agreement</strong><br>by purchasing or using a beat from Jintra, you agree to these terms. these terms may be updated. check <a href=\"https://terms.jintra.nl\">terms.jintra.nl</a> for the latest version.",
+    agreement: "<strong>7. agreement</strong><br>by purchasing or using a beat from Jintra, you agree to these terms. these terms may be updated. check <a href=\"https://beats.jintra.nl\">beats.jintra.nl</a> for the latest version.",
     contact: "<strong>contact</strong><br>for questions or custom licenses, email: <a href=\"mailto:hmu@jintra.nl\">hmu@jintra.nl</a>",
     legalSummary: "<strong>extended legal provisions</strong>",
     legalApplicableLaw: "<strong>1. applicable law</strong><br>this agreement is governed by Dutch law. all disputes arising from this agreement will be submitted to the competent court in the district where Jintra is established.",
